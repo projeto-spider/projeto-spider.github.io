@@ -1,0 +1,494 @@
+@charset "utf-8";
+
+body {
+	background-color: rgb(250, 250, 250);
+	margin: 0px;
+	min-width: 780px;
+}
+
+#bookmark {
+	text-decoration: none;
+	color: rgb(0,52,111);
+	font-family: sans-serif;
+	font-size: 16px;
+	text-align: left;
+	cursor: pointer;
+}
+
+#content_link {
+	text-decoration: none;
+}
+
+#content_title {
+	color: rgb(0,52,111);
+	font-family: sans-serif;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+#content_title2 {
+	color: rgb(0,52,111);
+	font-family: sans-serif;
+	font-size: 16px;
+	text-align: left;
+	text-decoration: none;
+}
+
+#logo_spider {
+	left: 0px;
+	position: absolute;
+}
+
+#ufpa_logo {
+	position: absolute;
+	right: 20px;
+	top: 25px;
+}
+
+#map_text {
+	position: relative;
+	top: 2px;
+}
+
+#map_root_link {
+	color: rgb(250,250,250);
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	word-spacing: 5px;
+}
+
+#map_root_link:hover {
+	color: rgb(136,193,57);
+}
+
+#map_first_level_link {
+	color: rgb(250,250,250);
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	word-spacing: 5px;
+}
+
+#map_first_level_link:hover {
+	color: rgb(0,52,111);
+}
+
+#map_root {
+	background-color: rgb(0,52,111);
+	border-color: rgb(0,52,111);
+	border-style: solid;
+	border-width: 2px;
+	height: 20px;
+	left: 20px;
+	position: relative;
+	text-align: center;
+	width: 200px;
+	z-index: 100;
+
+}
+#map_firt_level {
+	background-color: rgb(136,193,57);
+	border-color: rgb(136,196,57);
+	border-style: solid;
+	border-width: 2px;
+	height: 20px;
+	left: 170px;
+	margin-top: 10px;
+	position: relative;
+	text-align: center;
+	width: 200px;
+	z-index: 99;
+}
+#map_second_level {
+	background-color: rgb(250,250,250);
+	border-color: rgb(0,52,111);
+	border-style: solid;
+	border-width: 2px;
+	height: 20px;
+	left: 320px;
+	margin-top: 10px;
+	position: relative;
+	text-align: center;
+	width: 200px;
+	z-index: 98;
+}
+#map_third_level {
+	background-color: rgb(250,250,250);
+	border-color: rgb(136,196,57);
+	border-style: solid;
+	border-width: 2px;
+	height: 20px;
+	left: 470px;
+	margin-top: 10px;
+	position: relative;
+	text-align: center;
+	width: 200px;
+	z-index: 97;
+}
+
+#map_line_a {
+	border-left-color: rgb(136,193,57);
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-bottom-color: rgb(136,193,57);
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	height: 32px;
+	left: -52px;
+	position: absolute;
+	top: -22px;
+	width: 50px;
+}
+
+#map_line_b {
+	border-left-color: rgb(0,52,111);
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-bottom-color: rgb(0,52,111);
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	height: 32px;
+	left: -52px;
+	position: absolute;
+	top: -22px;
+	width: 50px;
+}
+
+#map_left_top {
+	left: -2px;
+	position: absolute;
+	top: -2px;
+}
+
+#map_right_top {
+	position: absolute;
+	right: -2px;
+	top: -2px;
+}
+
+#map_left_bottom {
+	bottom: -2px;
+	left: -2px;
+	position: absolute;
+}
+
+#map_right_bottom {
+	bottom: -2px;
+	position: absolute;
+	right: -2px;
+}
+
+#top {
+	background-color: rgb(250, 250, 250);
+	height: 150px;
+	width: 100%;
+}
+
+#top_menu {
+	height: 22px;
+	text-align: center;
+}
+
+#top_menu_text {
+	position: relative;
+	top: -5px;
+}
+
+#top_menu_link {
+	color: rgb(250,250,250);
+	cursor: pointer;
+	font-family: sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	word-spacing: 5px;
+}
+
+#top_menu_link:hover {
+	color: rgb(0,52,111);
+}
+
+#top_separator {
+	background-image: url("images/separator/top.png");
+	background-color: rgb(136,193,57);
+	background-repeat: repeat-x;
+	height: 20px;
+	width: 100%;
+}
+
+#bottom_separator {
+	background-image: url("images/separator/bottom.png");
+	background-color: rgb(136,193,57);
+	background-repeat: repeat-x;
+	height: 20px;
+	width: 100%;
+}
+
+#copyright {
+	background-color: rgb(250, 250, 250);
+	height: 30px;
+	text-align: center;
+	width: 100%;
+}
+
+#copyright_text {
+	font-family: sans-serif;
+	font-size: 12px;
+	position: relative;
+	top: 7px;
+}
+#side_menu {
+	left: 8px;
+	position: absolute;
+	top: 139px;
+	width: 204px;
+}
+
+#side_menu_top {
+	background-image: url("images/side_menu/top.png");
+	background-repeat: no-repeat;
+	height: 104px;
+	width: 204px;
+}
+
+#title_right_border {
+	position: absolute;
+	right: -2px;
+}
+
+#title_text {
+	color: rgb(250,250,250);
+	font-family: sans-serif;
+	font-size: 20px;
+	position: relative;
+	top: 11px;
+}
+
+#title {
+	background-image: url("images/title/background.png");
+	background-repeat: repeat-x;
+	height: 47px;
+	position: relative;
+	text-align: center;
+}
+
+#content {
+	background-color: rgb(250,250,250);
+	border-width: 3px;
+	border-style: solid;
+	border-color: rgb(132,132,132);
+	position: relative;
+}
+
+#content_left_top {
+	left: -3px;
+	position: absolute;
+	top: -3;
+}
+
+#photo {
+	border-color: rgb(0,52,111);
+	border-style: solid;
+	border-width: 3px;
+	left: 15px;
+	position: absolute;
+}
+
+#middle {
+	background-color: rgb(136,193,57);
+}
+
+#content_right_top {
+	position: absolute;
+	right: -3px;
+	top: -3px;
+}
+
+#content_top {
+	height: 20px;
+	position: relative;
+}
+
+#content_bottom {
+	height: 20px;
+	position: relative
+}
+
+#content_left_bottom {
+	left: -3px;
+	position: absolute;
+	top: 3px;
+}
+
+#content_right_bottom {
+	position: absolute;
+	right: -3px;
+	top: 3px;
+}
+
+#content_text {
+	color: rgb(0,0,0);
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-left: 15px;
+	margin-right: 15px;
+	text-align: justify;
+}
+
+#inicio {
+	background-image: url("images/side_menu/inicio_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#inicio:hover {
+	background-image: url("images/side_menu/inicio_b.png");
+}
+
+#sobre {
+	background-image: url("images/side_menu/sobre_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#sobre:hover {
+	background-image: url("images/side_menu/sobre_b.png");
+}
+
+#pesquisa {
+	background-image: url("images/side_menu/pesquisa_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#pesquisa:hover {
+	background-image: url("images/side_menu/pesquisa_b.png");
+}
+
+#bookmarks {
+	background-image: url("images/side_menu/bookmarks_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#bookmarks:hover {
+	background-image: url("images/side_menu/bookmarks_b.png");
+}
+
+#equipe {
+	background-image: url("images/side_menu/equipe_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#equipe:hover {
+	background-image: url("images/side_menu/equipe_b.png");
+}
+
+#publicacoes {
+	background-image: url("images/side_menu/publicacoes_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#publicacoes:hover {
+	background-image: url("images/side_menu/publicacoes_b.png");
+}
+
+#eventos {
+	background-image: url("images/side_menu/eventos_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#eventos:hover {
+	background-image: url("images/side_menu/eventos_b.png");
+}
+
+#noticias {
+	background-image: url("images/side_menu/noticias_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#noticias:hover {
+	background-image: url("images/side_menu/noticias_b.png");
+}
+
+#templates {
+	background-image: url("images/side_menu/templates_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#templates:hover {
+	background-image: url("images/side_menu/templates_b.png");
+}
+
+#parcerias {
+	background-image: url("images/side_menu/parcerias_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#parcerias:hover {
+	background-image: url("images/side_menu/parcerias_b.png");
+}
+
+#subprojetos {
+	background-image: url("images/side_menu/subprojetos_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#subprojetos:hover {
+	background-image: url("images/side_menu/subprojetos_b.png");
+}
+
+#resultados {
+	background-image: url("images/side_menu/resultados_a.png");
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	height: 29px;
+	width: 204px;
+}
+
+#resultados:hover {
+	background-image: url("images/side_menu/resultados_b.png");
+}
