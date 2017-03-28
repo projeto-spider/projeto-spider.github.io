@@ -13,17 +13,17 @@
     <div id="side_menu">
 
       <div id="side_menu_top"></div>
-      <a id="inicio" href="index.php?id=inicio"></a>
-      <a id="sobre" href="index.php?id=sobre"></a>
-      <a id="equipe" href="index.php?id=equipe"></a>
-      <a id="pesquisa"href="index.php?id=pesquisa"></a>
-      <a id="subprojetos" href="index.php?id=subprojetos"></a>
-      <a id="resultados" href="index.php?id=resultados"></a>
-      <a id="parcerias" href="index.php?id=parcerias"></a>
-      <a id="noticias" href="index.php?id=noticias"></a>
-      <a id="templates" href="index.php?id=templates"></a>
-      <a id="publicacoes" href="index.php?id=publicacoes"></a>
-      <a id="bookmarks" href="index.php?id=bookmarks"></a>
+      <router-link id="inicio" :to="{name: 'index'}"></router-link>
+      <router-link id="sobre" :to="{name: 'about'}"></router-link>
+      <router-link id="equipe" :to="{name: 'team'}"></router-link>
+      <router-link id="pesquisa" :to="{name: 'research'}"></router-link>
+      <router-link id="subprojetos" :to="{name: 'subprojects'}"></router-link>
+      <router-link id="resultados" :to="{name: 'results'}"></router-link>
+      <router-link id="parcerias" :to="{name: 'partnerships'}"></router-link>
+      <router-link id="noticias" :to="{name: 'news'}"></router-link>
+      <router-link id="templates" :to="{name: 'templates'}"></router-link>
+      <router-link id="publicacoes" :to="{name: 'publications'}"></router-link>
+      <router-link id="bookmarks" :to="{name: 'bookmarks'}"></router-link>
       <img id="side_menu_bottom" src="images/side_menu/bottom.png" />
     </div>
 
@@ -31,9 +31,9 @@
       <div style="margin-left: 252px; margin-right: 45px;">
         <div id="top_menu">
           <div id="top_menu_text">
-            <a id="top_menu_link" href="index.php?id=inicio">
+            <router-link id="top_menu_link" :to="{name: 'index'}">
               Início
-            </a>
+            </router-link>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
             <a target="_blanck" id="top_menu_link" href="http://www.ufpa.br">
@@ -46,9 +46,9 @@
             </a>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-            <a id="top_menu_link" href="index.php?id=mapa">
+            <router-link id="top_menu_link" :to="{name: 'sitemap'}">
               Mapa do Site
-            </a>
+            </router-link>
           </div>
         </div>
       </div>
