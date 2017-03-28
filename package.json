@@ -4,6 +4,11 @@
   "description": "Projeto Spider static website source",
   "author": "lubien <lubien1996@gmail.com>",
   "private": true,
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0"
+    }
+  },
   "dependencies": {
     "nuxt": "latest"
   },
