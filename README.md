@@ -1,22 +1,23 @@
-# spider
+# Projeto Spider
 
 > Projeto Spider static website source
 
 ## Build Setup
 
+We use [Yarn](https://yarnpkg.com/) instead of NPM so I strongly encourage you
+to use it if you ever plan to contribute to this source code.
+
 ``` bash
 # install dependencies
-$ npm install # Or yarn install
+$ yarn install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
+$ yarn run dev
 
 # generate static project
-$ npm run generate
+$ yarn run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+## Related
+
+- [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
