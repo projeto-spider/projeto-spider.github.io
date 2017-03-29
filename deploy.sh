@@ -7,8 +7,8 @@ if [ -z "$TRAVIS_PULL_REQUEST" ]; then
   exit 0
 fi
 
-if [ "$TRAVIS_BRANCH" != "master" ]; then
-  echo "Don't deploy branches than master"
+if [ "$TRAVIS_BRANCH" != "src" ]; then
+  echo "Don't deploy branches than src"
   exit 0
 fi
 
@@ -20,6 +20,6 @@ git init > /dev/null
 git add -A > /dev/null
 git commit -m "Build ${TRAVIS_BUILD_NUMER} deployed" > /dev/null
 git remote add target $DEPLOY_REPO > /dev/null
-git push -u target HEAD:gh-pages -f --quiet > /dev/null
+git push -u target HEAD:master -f --quiet > /dev/null
 
 echo "Finished deploy"
