@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "7"
+script:
+  - yarn run generate
+after_success:
+  - ./deploy.sh
+env:
+  global:
+    - secure: >-
+        OXU/nvNFVyFjGWja22ap4zLyOqT/zjg6zLI3g0KlO2BKFtZSrT/mt3zHs2E0jWOpolJZYuaTkGJydd2FeV3smdg2pxZLGSetN2OKk/5UXXu0FwpFV1+pckN2TiB52JdG4+eDj6gRIP3Q1uTikGLNkJtylKUWYn2DbH5RinbwkycSQHlqkKu+sv0U1OcSTsi3d9yfXnlHKlAQILhKtvNyyixOp7YHyp2xK8LSZ2OaCp2o1qB/e5JLUyGvUwCKh5cKvovNiH547jQbAdMZ+tYWyMANbeohhraUj6rlDufD6Q6RoYjEoRES2NKrgq9JhWQSHh377Ls4K4nOl2CnSVEHFOHzIIPmoabq4xougBFi0PhALvulwP3tz2Z4JPjppp47kKGWWaRHtbZpTgn6EPp1K10J0ykjnmgSCy4IQbsRGJh3Wt4NPo13txfmGgviZvWy1z79Mk07GDP0A6xpl7bnnn6QOPyGPCJ9++5CgPpgA+lOY4gQLTD96wm7y698cYCm9e06Ygk6i8b+n39cImZnB0KyYZLNbzQ4gH+iaLQz1AvdR+GErt2YMYSj223xCpke5z6u7gVaIw2SKbxdDbHPAkA6KfOG26GBeANEtwR0yO6/qaCh1Lj5awnZ4z9XeHfBuN42pXvk9Q+4Pyb1dKFJ/hR4K2g/PlzZOC5SddYY9dg=
