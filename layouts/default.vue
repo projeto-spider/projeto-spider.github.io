@@ -2,10 +2,10 @@
   <div>
     <div id="top">
       <a target="_blanck" href="http://www.spider.ufpa.br">
-        <img border= "0px" id="spider_logo" src="images/logos/spider.png" />
+        <img border= "0px" id="spider_logo" src="~assets/images/logos/spider.png" />
       </a>
       <a target="_blanck" href="http://www.ufpa.br">
-        <img border="0px" id="ufpa_logo" src="images/logos/ufpa.png" />
+        <img border="0px" id="ufpa_logo" src="~assets/images/logos/ufpa.png" />
       </a>
     </div>
 
@@ -24,7 +24,7 @@
       <router-link id="templates" :to="{name: 'templates'}"></router-link>
       <router-link id="publicacoes" :to="{name: 'publications'}"></router-link>
       <router-link id="bookmarks" :to="{name: 'bookmarks'}"></router-link>
-      <img id="side_menu_bottom" src="images/side_menu/bottom.png" />
+      <img id="side_menu_bottom" src="~assets/images/side_menu/bottom.png" />
     </div>
 
     <div id="middle">
@@ -55,7 +55,7 @@
 
       <div style="margin-left: 212px; margin-right: 45px;">
         <div id="title">
-          <img id="title_right_border" src="images/title/right_border.png" />
+          <img id="title_right_border" src="~assets/images/title/right_border.png" />
           <div id="title_text">
             Sobre o SPIDER                    </div>
         </div>
@@ -66,8 +66,8 @@
         <div id="content">
 
           <div id="content_top">
-            <img id="content_left_top" src="images/content/left_top.png" />
-            <img id="content_right_top" src="images/content/right_top.png" />
+            <img id="content_left_top" src="~assets/images/content/left_top.png" />
+            <img id="content_right_top" src="~assets/images/content/right_top.png" />
           </div>
 
           <div id="content_text">
@@ -75,8 +75,8 @@
           </div>
 
           <div id="content_bottom">
-            <img id="content_left_bottom" src="images/content/left_bottom.png" />
-            <img id="content_right_bottom" src="images/content/right_bottom.png" />
+            <img id="content_left_bottom" src="~assets/images/content/left_bottom.png" />
+            <img id="content_right_bottom" src="~assets/images/content/right_bottom.png" />
           </div>
         </div>
       </div>
@@ -92,3 +92,7 @@
     </div>
   </div>
 </template>
+
+<style>
+@import '~assets/style.css'
+</style>
