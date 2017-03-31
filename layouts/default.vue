@@ -1,9 +1,9 @@
 <template>
   <div>
     <div id="top">
-      <a target="_blanck" href="http://www.spider.ufpa.br">
+      <router-link :to="{name: 'index'}">
         <img border= "0px" id="spider_logo" src="~assets/images/logos/spider.png" />
-      </a>
+      </router-link>
       <a target="_blanck" href="http://www.ufpa.br">
         <img border="0px" id="ufpa_logo" src="~assets/images/logos/ufpa.png" />
       </a>
