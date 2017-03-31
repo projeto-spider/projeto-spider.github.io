@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "title": "Educação em Engenharia de Software com foco em MPS",
+      "members": "Carlos Portela",
+      "active": true
+    },
+    {
+      "title": "Educação em Controle Estatístico de Processo em MPS",
+      "members": "Júlio Furtado",
+      "active": true
+    },
+    {
+      "title": "Aquisição com Métodos Ágeis",
+      "members": "Santos",
+      "active": true
+    },
+    {
+      "title": "Ensino de Fábricas de Software",
+      "members": "Marcela de Souza",
+      "active": true
+    },
+    {
+      "title": "Desenvolvimento de Requisitos com Métodos Ágeis",
+      "members": "Kleoson Bruno",
+      "active": true
+    },
+    {
+      "title": "Catálogo de Abordagens para Controle Estatístico de Processo em MPS",
+      "members": "Aluizio Ramos",
+      "active": true
+    },
+    {
+      "title": "Gerência de Portfólio de Projetos com Métodos Ágeis",
+      "members": "Lilian Ferreira",
+      "active": true
+    },
+    {
+      "title": "Apoio à Gestão de Decisão do MPS",
+      "members": "Luiz Danin",
+      "active": true
+    },
+    {
+      "title": "Catálogo de Abordagens de Aquisição com Métodos Ágeis",
+      "members": "Elisiane Soares",
+      "active": true
+    },
+    {
+      "title": "Revisão Sistemática de Controle Estatístico de Processo em MPS",
+      "members": "Arthur Moraes e Géssica Pinheiro",
+      "active": true
+    },
+    {
+      "title": "Spider-DAR: Ferramenta de Apoio à Gestão de Decisão",
+      "members": "Bleno Vale",
+      "active": true
+    },
+    {
+      "title": "Revisão Sistemática de Ativos de Medição",
+      "members": "Rubens Rocha",
+      "active": true
+    },
+    {
+      "title": "Revisão Sistemática de Desenvolvimento de Requisitos com Métodos Ágeis",
+      "members": "Adilson Sousa e Victor Rodrigues",
+      "active": true
+    },
+    {
+      "title": "Ferramentas de Apoio ao Controle Estatístico de Processo em MPS",
+      "members": "Diego Abreu",
+      "active": true
+    },
+    {
+      "title": "Apoio Automatizado aos Processos de Definição, Avaliação e Melhoria de Processo",
+      "members": "Leonardo e Fabrício Araújo",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Gerência de Recursos Humanos do MPS.BR",
+      "members": "Wallace Lira, Laís, Paulo Malcher e Ehilton",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo  de Gerência de Portfólio do MPS.BR",
+      "members": "Ronny, Ariane e Rousevelt",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo  de Gerência de Reutilização do MPS.BR",
+      "members": "Fabrício Alho e Kleverton",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Avaliação do MPS.BR",
+      "members": "Jñane e Pedro Aviz",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Execução de Processo de  Software",
+      "members": "Carlos Portela, Mariano, Helder e André",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado a Simulação de Processos de Software",
+      "members": "Rafael Chaves",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Integração de Ferramentas no Contexto de Melhoria de Processo",
+      "members": "Ewelton",
+      "active": false
+    },
+    {
+      "title": "Manual de Implementação do Processo de Garantia da Qualidade",
+      "members": "Rodrigo Barbário",
+      "active": false
+    },
+    {
+      "title": "Manual de Implementação do Processo de Medição",
+      "members": "Simone Carneiro",
+      "active": false
+    },
+    {
+      "title": "Manual de Implementação do Processo de Aquisição",
+      "members": "Rodrigo e Fernando",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Medição do MPS.BR",
+      "members": "Bernardo Estácio e Kaio",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Aquisição do MPS.BR",
+      "members": "Júlio",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Garantia da Qualidade do MPS.BR",
+      "members": "Marília",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Estimativa de Projetos",
+      "members": "Gleise, Sivaldinho e Kleverton",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Gerência de Projetos do MPS.BR",
+      "members": "Miguel, Vitor, Mauricio, Wallace, Ewelton e  Pedro",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Gerência de Requisitos do MPS.BR",
+      "members": "Alexandre e Luciana",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Desenvolvimento de Requisitos do MPS.BR",
+      "members": "Ewelton",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Implementação do Processo de Gerência de Configuração do MPS.BR",
+      "members": "Ewelton e Maurício",
+      "active": false
+    },
+    {
+      "title": "Análise Integrada dos Resultados Esperados do Nível G do MPS.BR",
+      "members": "Wallace e Paulo Rudolph",
+      "active": false
+    },
+    {
+      "title": "Análise Integrada dos Resultados Esperados do Nível F do MPS.BR",
+      "members": "Alberto e Heresson",
+      "active": false
+    },
+    {
+      "title": "Adaptação do Processo de Gerência de Projetos do CTIC, usando Metodologias Ágeis",
+      "members": "Carlos Portela",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Avaliação de Produtos de Software Baseado no MEDE-PROS",
+      "members": "Gleyson Gama",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Modelagem de Processos de Software",
+      "members": "Renan Sales",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Manutenção de Ativos do MPS-BR",
+      "members": "Pedro",
+      "active": false
+    },
+    {
+      "title": "Apoio Automatizado à Geração de Checklists para Avaliação Objetiva",
+      "members": "Renan Sales",
+      "active": false
+    }
+  ]
+}
