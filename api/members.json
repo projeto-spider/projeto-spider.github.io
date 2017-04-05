@@ -1,0 +1,1030 @@
+{
+  "data":[
+    {
+      "name":"Sandro Bezerra",
+      "formation":[
+        "Pós-Doutorado em Ciência da Computação (Universidade de Coimbra e UFPE/2015)",
+        "Doutorado em Ciência da Computação (UFPE/2007)",
+        "Mestrado em Ciência da Computação (UFPE/2001)",
+        "Especialização em Análise de Sistemas (UFPA/1999)",
+        "Graduação em Processamento de Dados (UNAMA/1998)",
+        "Professor Associado da Faculdade de Computação da UFPA"
+      ],
+      "homepage":"http://www.ufpa.br/srbo",
+      "activities":[],
+      "research":[
+        "Engenharia de Software",
+        "Gerência de Processos de Software",
+        "Gerência de Projetos de Software",
+        "Qualidade de Software",
+        "Sistemas de Informação"
+      ],
+      "lattes":"http://lattes.cnpq.br/2080791630485427",
+      "contact":"srbo@ufpa.br",
+      "photo": "/images/photos/sandro_bezerra.jpg",
+      "role":"coordenator"
+    },
+    {
+      "name":"Alexandre Vasconcelos",
+      "formation":[
+        "Pós-Doutorado em Engenharia de Software (Universidad Politécnica de Valencia/2011)",
+        "Doutorado em Ciência da Computação (University of York/1993)",
+        "Mestrado em Ciência da Computação (UFPE/1989)",
+        "Graduação em Ciência da Computação (UFPE/1987)",
+        "Professor Associado da Universidade Federal de Pernambuco - UFPE"
+      ],
+      "homepage":"http://www.cin.ufpe.br/~amlv",
+      "activities":[],
+      "research":[
+        "Engenharia de Software",
+        "Gerência de Processos de Software",
+        "Gerência de Projetos de Software",
+        "Qualidade de Software",
+        "Sistemas de Informação"
+      ],
+      "lattes":"http://lattes.cnpq.br/0504332643175649",
+      "contact":"amlv@cin.ufpe.br",
+      "photo": "/images/photos/alexandre_vasconcelos.jpg",
+      "role":"associatedResearcher"
+    },
+    {
+      "name":"Ana Rouiller",
+      "formation":[
+        "Doutorado em Ciência da Computação (UFPE/2001)",
+        "Mestrado em Ciência da Computação (UFPE/1998)",
+        "Especialização em Sistemas de Informaçã (UEM/1995)",
+        "Graduação em Tecnologo em Processamento de Dados (UEM/1986)",
+        "Professora Adjunta da Universidade Federal Rural de Pernambuco - UFRPE"
+      ],
+      "homepage": false,
+      "activities":[],
+      "research":[
+        "Engenharia de Software",
+        "Gerência de Processos de Software",
+        "Gerência de Projetos de Software",
+        "Qualidade de Software",
+        "Sistemas de Informação"
+      ],
+      "lattes":"http://lattes.cnpq.br/3594138632246802",
+      "contact":"anarouiller@gmail.com",
+      "photo": "/images/photos/ana_rouiller.jpg",
+      "role":"associatedResearcher"
+    },
+    {
+      "name":"Carlos Portela",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "activities":[
+        "Pesquisador de Ferramenta de Execução de Processos de Software"
+      ],
+      "research":[],
+      "lattes":"http://lattes.cnpq.br/7707594869367480",
+      "contact":"carlos3mf@gmail.com",
+      "photo": "/images/photos/carlos_portela.jpg",
+      "role":"doctorate"
+    },
+    {
+      "name":"Júlio Furtado",
+      "formation":[
+        "Mestre em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Aquisição de Software"
+      ],
+      "research":[],
+      "lattes":"http://lattes.cnpq.br/9175382702970383",
+      "contact":"marcelaoliveiras@gmail.com",
+      "photo": "/images/photos/julio_furtado.jpg",
+      "role":"doctorate"
+    },
+    {
+      "name":"Marcela de Souza",
+      "formation":[
+        "Doutoranda em Ciência da Computação (UFPE)",
+        "Mestrado em Engenharia de Software (CESAR - PE/2012)",
+        "Graduação em Bacharelado em Sistemas de Informação (FIR - PE/ 2009)"
+      ],
+      "homepage": false,
+      "activities":[],
+      "research":[],
+      "lattes":"http://lattes.cnpq.br/0350612617251595",
+      "contact":"marcelaoliveiras@gmail.com",
+      "photo": "/images/photos/marcela_souza.jpg",
+      "role":"doctorate"
+    },
+    {
+      "name":"Melquizedequi Santos",
+      "formation":[
+        "Doutorando em Ciência da Computação (UFPE)",
+        "Mestrado em Ciência da Computação (UFPE/2014)",
+        "Especialista em Gestão em Organizações Públicas (UNIVASF/2010)",
+        "Graduação em Bacharelado em Ciência da Computação (FACAPE/ 2004)"
+      ],
+      "homepage": false,
+      "activities":[
+        "Um Processo para Gerenciamento de Contratos com Fornecedores de Software Baseado em Métodos Ágeis e CMMI-DEV",
+        "O Impacto do Uso das Metodologias Ágeis na Satisfação dos Stakeholders",
+        "Estudo de caso: uma análise da comunicação interna no Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano Campus Petrolina na perspectiva funcional dos servidores técnicos administrativos e docentes",
+        "CPE - Sistema de Controle de Projetos Elétricos"
+      ],
+      "research":[],
+      "lattes":"http://lattes.cnpq.br/6821572264951451",
+      "contact":"mcs.cefet@gmail.com",
+      "photo": "/images/photos/melqui_santos.jpg",
+      "role":"doctorate"
+    },
+    {
+      "name":"Aluizio Ramos",
+      "formation":[
+        "Mestrando em Ciência da Computação (UFPA)",
+        "Graduação em Bacharelado em Ciência da Computação (UFPA/2015)"
+      ],
+      "homepage": false,
+      "activities":[],
+      "research":[
+        "Engenharia de Software",
+        "Controle Estatístico de Processos"
+      ],
+      "lattes":"http://lattes.cnpq.br/6084196592109512",
+      "contact":"aluizio.ramos.adv@gmail.com",
+      "photo": "/images/photos/aluizio_ramos.jpg",
+      "role":"masterStudent"
+    },
+    {
+      "name":"Bruno Corrêa",
+      "formation":[
+        "Mestrando em Ciência da Computação (UFPA)",
+        "Especialista em Gerência de Projetos de Software (UFPA/2014)",
+        "Graduação em Bacharelado em Sistemas de Informação (UFPA/2013)"
+      ],
+      "homepage": false,
+      "activities":[
+        "RisAgi: Um Método Ágil para Gestão de Riscos em Projetos de Software"
+      ],
+      "research":[
+        "Engenharia de Software",
+        "Qualidade de Software",
+        "Engenharia de Requisitos",
+        "Métodos Ágeis"
+      ],
+      "lattes":"http://lattes.cnpq.br/4303151304744373",
+      "contact":"k.brunocorrea@gmail.com",
+      "photo": "/images/photos/bruno_correa.jpg",
+      "role":"masterStudent"
+    },
+    {
+      "name":"Elisiane Soares",
+      "formation":[
+        "Mestranda em Ciência da Computação (UFPA)",
+        "Graduação em Bacharelado em Sistemas de Informação (UFPA/2013)"
+      ],
+      "homepage": false,
+      "activities":[
+        "Catálogo de Boas Práticas Utilizando Métodos Ágeis para o Gerenciamento do Processo de Aquisição de Software"
+      ],
+      "research":[
+        "Qualidade de software",
+        "Modelagem de Processos",
+        "Aquisição de Software",
+        "Métodos Ágeis"
+      ],
+      "lattes":"http://lattes.cnpq.br/9852207221618498",
+      "contact":"elismclean@gmail.com",
+      "photo": "/images/photos/elisiane_soares.jpg",
+      "role":"masterStudent"
+    },
+    {
+      "name":"Lilian Ferreira",
+      "formation":[
+        "Mestranda em Ciência da Computação (UFPA)",
+        "Graduação em Bacharelado em Ciência da Computação (UFPA/2013)"
+      ],
+      "homepage": false,
+      "activities":[
+        "Proposta de Implementação de um Framework de Gestão de Portfólio Ágil"
+      ],
+      "research":[
+        "Melhoria de Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/0605702747979395",
+      "contact":"lilianferreira.ti@gmail.com",
+      "photo": "/images/photos/lilian_ferreira.jpg",
+      "role":"masterStudent"
+    },
+    {
+      "name":"Luiz Danin",
+      "formation":[
+        "Mestrando em Ciência da Computação (UFPA)",
+        "Graduação em Bacharelado em Sistemas de Informação (UFPA/2014)"
+      ],
+      "homepage": false,
+      "activities":[
+        "Spider-QA: Uma Ferramenta de Apoio ao Processo de Garantia da Qualidade"
+      ],
+      "research":[
+        "Engenharia de Software",
+        "Gestão de Decisão"
+      ],
+      "lattes":"http://lattes.cnpq.br/7796899789431629",
+      "contact":"otaviodanin@gmail.com",
+      "photo": "/images/photos/luiz_danin.jpg",
+      "role":"masterStudent"
+    },
+    {
+      "name":"Arthur Moraes",
+      "formation":[
+        "Graduando em Bacharelado em Ciência da Computação (UFPA)",
+        "- com período sanduíche em Rider University (EUA/2014-2015)"
+      ],
+      "homepage": false,
+      "research":[
+        "Engenharia de Software",
+        "Controle Estatístico de Processos",
+        "Medição de Processos de Software"
+      ],
+      "activities":[
+        "Spider-MsControl: Uma Ferramenta para Apoio ao Processo de Medição usando a Abordagem GQIM"
+      ],
+      "lattes":"http://lattes.cnpq.br/9397846364569083",
+      "contact":"ivson.ma@gmail.com",
+      "photo": "/images/photos/arthur_moraes.jpg",
+      "role":"scientificInitiation"
+    },
+    {
+      "name":"Géssica Pinheiro",
+      "formation":[
+        "Graduanda em Bacharelado em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "research":[
+        "Engenharia de Software",
+        "Controle Estatístico de Processos",
+        "Medição de Processos de Software",
+        "Gestão de Decisão"
+      ],
+      "activities":[
+        "Spider-MsControl: Uma Ferramenta para Apoio ao Processo de Medição usando a Abordagem GQIM",
+        "Spider-DAR: Ferramenta de apoio para a implantação de processo formal de tomada de decisão aderente a Modelos e Normas de Qualidade de Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/1179454503640182",
+      "contact":"gesspinhero@gmail.com",
+      "photo": "/images/photos/gessica_pinheiro.jpg",
+      "role":"scientificInitiation"
+    },
+    {
+      "name":"Bleno Silva",
+      "formation":[
+        "Graduando em Bacharelado em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "research":[
+        "Engenharia de Software",
+        "Métodos Ágeis",
+        "Gerência de Riscos",
+        "Medição de Processos de Software",
+        "Gestão de Decisão"
+      ],
+      "activities":[
+        "Spider-PP: Apoio a estimativa de estorias usando método ágil Planning Poker",
+        "Spider-RM: Uma Proposta de Metodologia para Gerenciamento de Riscos em Projetos de Software aderente a Modelos e Normas de Qualidade de Processo de Software",
+        "Spider-MsControl: Uma Ferramenta para Apoio ao Processo de Medição usando a Abordagem GQIM",
+        "Spider-DAR: Ferramenta de apoio para a implantação de processo formal de tomada de decisão aderente a Modelos e Normas de Qualidade de Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/7946961294088261",
+      "contact":"blenofvale@gmail.com",
+      "photo": "/images/photos/bleno_silva.jpg",
+      "role":"graduationStudent"
+    },
+    {
+      "name":"Diego Abreu",
+      "formation":[
+        "Graduando em Bacharelado em Ciência da Computação (UFPA)",
+        "- com período sanduíche em Western Illinois University (EUA/2014-2015)"
+      ],
+      "homepage": false,
+      "research":[
+        "Engenharia de Software",
+        "Controle Estatístico de Processos",
+        "Medição de Processos de Software",
+        "Gerência de Riscos"
+      ],
+      "activities":[
+        "Spider-RM: Uma Proposta de Metodologia para Gerenciamento de Riscos em Projetos de Software aderente a Modelos e Normas de Qualidade de Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/5140820746527003",
+      "contact":"diegooabreu@gmail.com",
+      "photo": "/images/photos/diego_oliveira.jpg",
+      "role":"graduationStudent"
+    },
+    {
+      "name":"Alberto Ávila",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Integração de Ferramentas GPL de Gerência de Configuração, Garantia da Qualidade, Medição e Gerência de Portfólio"
+      ],
+      "lattes":"http://lattes.cnpq.br/9592967277635771",
+      "contact":"zeavila@gmail.com",
+      "photo": "/images/photos/alberto_avila.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Alexandre Cardias",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramentas GPL para Gerência de Requisitos"
+      ],
+      "lattes":"http://lattes.cnpq.br/2240194198783071",
+      "contact":"alexandrecardias@gmail.com",
+      "photo": "/images/photos/alexandre_cardias.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"André Cunha",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramenta de Execução de Processos de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/6214204397943237",
+      "contact":"aandrecunhas@gmail.com",
+      "photo": "/images/photos/andre_silva.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Ariane Sinimbú",
+      "formation":[
+        "Graduanda em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisadora de Revisão Sistemática"
+      ],
+      "lattes":"http://lattes.cnpq.br/9314432323211284",
+      "contact":"nanesinimbu@gmail.com",
+      "photo": "/images/photos/ariane_sinumbu.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Bernardo Estácio",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL de Apoio ao Processo de Medição"
+      ],
+      "lattes":"http://lattes.cnpq.br/9484193247971170",
+      "contact":"bernardon1@hotmail.com",
+      "photo": "/images/photos/bernardo_estacio.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Bruno Murakami",
+      "formation":[
+        "Graduando em Bacharelado em Ciência da Computação (UFPA)",
+        "- com período sanduíche em Concord University (EUA/2014-2015)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Spider-PP: Apoio a estimativa de estorias usando método ágil Planning Poker"
+      ],
+      "lattes":"http://lattes.cnpq.br/5530493755225698",
+      "contact":"murakami.bruno@gmail.com",
+      "photo": "/images/photos/bruno_murakami.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Diogo Adriel",
+      "formation":[
+        "Especializando em Arquitetura de Software (UFPA)",
+        "Graduado em Bacharelado em Sistemas de informação (UFPA/2014)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "SPIDER RM: Uma Ferramenta de Apoio a Gerencia de Riscos",
+        "Um Mapeamento Sistemático para Rastreabilidade de Requisitos no Contexto de Projetos de Software",
+        "Um Mapeamento Sistemático sobre Abordagens de Apoio à Rastreabilidade de Requisitos no Contexto de Projetos de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/9949820541291407",
+      "contact":"cetlho@gmail.com",
+      "photo": "/images/photos/diogo_adriel.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Ehilton Yoshidome",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Revisão Sistemática"
+      ],
+      "lattes":"http://lattes.cnpq.br/1577620650786594",
+      "contact":"ekcy00@gmail.com",
+      "photo": "/images/photos/ehilton_yoshidome.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Elder Ferreira",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramenta de Execução de Processos de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/6563082640484231",
+      "contact":"elderferreirass@gmail.com",
+      "photo": "/images/photos/elder_ferreira.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Ewelton Yoshidome",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramentas GPL para Gerência de Configuração"
+      ],
+      "lattes":"http://lattes.cnpq.br/9404096183876933",
+      "contact":"ewelton.yoshio@gmail.com",
+      "photo": "/images/photos/ewelton_yoshidome.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Fernando Wagner",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Aquisição de Software"
+      ],
+      "lattes":false,
+      "contact":"fwat104@hotmail.com",
+      "photo": "/images/photos/fernando_wagner.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Fabrício Alho",
+      "formation":[
+        "Especialista em Redes de Computadores",
+        "Tecnólogo em Processamento de Dados"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Reutilização de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/4610504368740794",
+      "contact":"fabricio.alho@prodepa.pa.gov.br",
+      "photo": "/images/photos/fabricio_alho.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Fabrício Araújo",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramenta GPL para Apoio do Processo de Definição do Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/1551552575314663",
+      "contact":"araujopa@gmail.com",
+      "photo": "/images/photos/fabricio_araujo.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Fabrício Garcia",
+      "formation":[
+        "Mestrado em Ciência da Computação (UFPA/2016)",
+        "Graduação em Bacharelado em Sistemas de Informação (UFPA/2013)"
+      ],
+      "homepage": false,
+      "research":[
+        "Engenharia de software",
+        "Qualidade de software",
+        "Modelos de qualidade",
+        "CERTICS",
+        "CMMI-DEV"
+      ],
+      "activities":[
+        "Uma Abordagem para a Implementação Multimodelos de Qualidade de Software Adotando a CERTICS e o CMMI-DEV"
+      ],
+      "lattes":"http://lattes.cnpq.br/3146466793441475",
+      "contact":"fabriciowsgarcia@gmail.com",
+      "photo": "/images/photos/fabricio_garcia.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Gleise Baldez",
+      "formation":[
+        "Graduada em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisadora de Ferramentas GPL de Apoio à Estimativa de Projetos (APF e UCP)"
+      ],
+      "lattes":"http://lattes.cnpq.br/3297286501859636",
+      "contact":"esielg.inha@gmail.com",
+      "photo": "/images/photos/gleise_baldez.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Gleyson Gama",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Avaliação de Produtos de Software - MEDE-PROS"
+      ],
+      "lattes":"http://lattes.cnpq.br/1543329464385490",
+      "contact":"gleysongama@gmail.com",
+      "photo": "/images/photos/gleyson_gama.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Heresson Mendes",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Integração de Ferramentas GPL de Gerência de Configuração, Garantia da Qualidade, Medição e Gerência de Portfólio"
+      ],
+      "lattes":"http://lattes.cnpq.br/5521290404426398",
+      "contact":"heresson@gmail.com",
+      "photo": "/images/photos/heresson_mendes.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Iuri Raiol",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação (UFPA/2014)"
+      ],
+      "homepage": false,
+      "research":[
+        "Engenharia de Software",
+        "Garantia de Qualidade",
+        "Gestão de decisão"
+      ],
+      "activities":[
+        "Spider-Qa: Uma Ferramenta de Apoio à Garantia de Qualidade do Processo de Desenvolvimento de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/4782216942467602",
+      "contact":"iuriraiol@gmail.com",
+      "photo": "/images/photos/iuri_raiol.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Jñane Neiva",
+      "formation":[
+        "Graduada em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisadora de Ferramentas GPL para Avaliação de Processos de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/7533552645195488",
+      "contact":"jineiva@gmail.com",
+      "photo": "/images/photos/jnane_neiva.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Joyce Bastos",
+      "formation":[
+        "Graduada em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisadora de Análise da ISO/IEC 12207 nas Práticas de Interface Homem-Computador"
+      ],
+      "lattes":"http://lattes.cnpq.br/2524463518716273",
+      "contact":"joyce.csb@gmail.com",
+      "photo": "/images/photos/joyce_bastos.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Kaio Valente",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação."
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Apoio ao Processo de Medição"
+      ],
+      "lattes":"http://lattes.cnpq.br/2123913936577116",
+      "contact":"ksmvalente@gmail.com",
+      "photo": "/images/photos/kaio_valente.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Laís Ribeiro",
+      "formation":[
+        "Graduada em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Desenvolvimento de Framework de Apoio ao Processo de Gerência de Recursos Humanos"
+      ],
+      "lattes":"http://lattes.cnpq.br/1474154260924496",
+      "contact":"laissribeiro@gmail.com",
+      "photo": "/images/photos/lais_ribeiro.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Leonardo Mezzomo",
+      "formation":[
+        "Especialista em Arquitetura de Software - UFPA",
+        "Graduado em Bacharelado em Ciência da Computação - UNAMA"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Apoio aos Processos de Definição e Melhoria do Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/1058167768105508",
+      "contact":"leomezzomo@hotmail.com",
+      "photo": "/images/photos/leonardo_mezzomo.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Luciana Bentes",
+      "formation":[
+        "Graduada em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramentas GPL para Gerência de Requisitos"
+      ],
+      "lattes":"http://lattes.cnpq.br/3420068902688390",
+      "contact":"lufpa06@gmail.com",
+      "photo": "/images/photos/luciana_bentes.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Marcélio Leal",
+      "formation":[
+        " Mestre em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramenta para Rastreabilidade de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/1536755819158493",
+      "contact":"me@marcelioleal.com",
+      "photo": "/images/photos/marcelio_leal.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Marcos Senna",
+      "formation":[
+        "Graduando em Bacharelado em Ciência da Computação (UFPA) - com período sanduíche em College of Charleston (EUA, 2014 - 2015"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Spider-RM: Uma Proposta de Metodologia para Gerenciamento de Riscos em Projetos de Software aderente a Modelos e Normas de Qualidade de Processo de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/6188063445845185",
+      "contact":"marianojefferson@hotmail.com",
+      "photo": "/images/photos/marcos_senna.jpg",
+      "role":"formerResearcher"
+    },
+    {
+        "name": "Mariano Jefferson",
+        "formation": ["Graduado em Sistemas de Informação"],
+        "homepage": false,
+        "activities": ["Definição de um Framework de Processo para Execução de Processos de Software"],
+        "research": false,
+        "lattes": "5551566258933582",
+        "contact": "marianojefferson@hotmail.com",
+        "photo": "/images/photos/mariano_jefferson.jpg",
+        "role": "formerResearcher"
+    },
+    {
+      "name":"Marília Paulo",
+      "formation":[
+        "Mestre em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisadora de Ferramentas GPL para Garantia da Qualidade"
+      ],
+      "lattes":"http://lattes.cnpq.br/3056496677805992",
+      "contact":"mariliapaulo@gmail.com",
+      "photo": "/images/photos/marilia_paulo.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Maurício Ronny",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Gerência de Portfólio.",
+        "Ferramentas GPL para Gerência de Configuração"
+      ],
+      "lattes":"http://lattes.cnpq.br/3947074895996550",
+      "contact":"mauricio.ronny@uol.com.br",
+      "photo": "/images/photos/mauricio_ronny.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Miguel Pernambuco",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramentas GPL para Gerência de Projetos"
+      ],
+      "lattes":"http://lattes.cnpq.br/1284146249481532",
+      "contact":"mp.godan@gmail.com",
+      "photo": "/images/photos/miguel_pernambuco.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Olavo Nylander",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador em Qualidade de Software, Processos de Validação e Verificação"
+      ],
+      "lattes":"http://lattes.cnpq.br/1966185561201272",
+      "contact":"olavo.nylander@gmail.com",
+      "photo": "/images/photos/olavo_nylander.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Paulo Malcher",
+      "formation":[
+        "Mestre em Ciência da Computação (UFPA)",
+        "Graduado em Bacharelado em Ciência da Computação (UFPA)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Revisão Sistemática"
+      ],
+      "lattes":"http://lattes.cnpq.br/4559231342372145",
+      "contact":"prcmalcher@gmail.com",
+      "photo": "/images/photos/paulo_malcher.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Paulo Rodrigues Junior",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramentas GPL para Gerência de Portfólio"
+      ],
+      "lattes":"http://lattes.cnpq.br/9479073202550580",
+      "contact":"p3j0t4@gmail.com",
+      "photo": "/images/photos/paulo_rodrigues.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Paulo Rudolph",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Integração de Ferramentas GPL para Gerência de Projetos e Gerência de Requisitos"
+      ],
+      "lattes":"http://lattes.cnpq.br/5129203756391265",
+      "contact":"paulorudolph07@gmail.com",
+      "photo": "/images/photos/paulo_rudolph.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Paulo Souza",
+      "formation":[
+        "Graduando em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Desenvolvimento da ferramenta Spider-MSControl para apoio a medição usando GQIM"
+      ],
+      "lattes":"http://lattes.cnpq.br/2163111591297556",
+      "contact":"afonso.baco@gmail.com",
+      "photo": "/images/photos/paulo_souza.jpg",
+      "role":"formerResearcher"
+    },
+    {
+        "name": "Pedro Afonso",
+        "formation": ["Graduado em Bacharelado Ciência da Computação (UFPA)"],
+        "activities": ["Customização de Ferramentas de GPL de Apoio ao Processo de Gerência de Projetos"],
+        "homepage": false,
+        "research": false,
+        "lattes": "2163111591297556",
+        "contact": "afonso.baco@gmail.com",
+        "photo": "/images/photos/pedro_afonso.jpg",
+        "role": "formerResearcher"
+    },
+    {
+      "name":"Rafael Chaves",
+      "formation":[
+        "Mestre em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Simulação de Processos de Software no Contexto da Qualidade de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/6174902705031173",
+      "contact":"rafael.ufpa@gmail.com",
+      "photo": "/images/photos/rafael_chaves.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Renan Sales",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramenta de Modelagem de Processos de Software com foco no SPEM"
+      ],
+      "lattes":"http://lattes.cnpq.br/0472586536510143",
+      "contact":"renansalesbarros@gmail.com",
+      "photo": "/images/photos/renan_sales.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Rodrigo Barbalho",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas de Software Livre para Implementação do Processo da Garantia da Qualidade"
+      ],
+      "lattes":"http://lattes.cnpq.br/4478178558515453",
+      "contact":"rodbarbalho@gmail.com",
+      "photo": "/images/photos/rodrigo_barbalho.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Rousevelt Rodrigues",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Uma Proposta de um Fluxo de Trabalho para a Execução de Gerência de Portifólio no Contexto de Modelos e Normas de Qualidade"
+      ],
+      "lattes":false,
+      "contact":"rousevelt2@yahoo.com.br",
+      "photo": "/images/photos/rousevelt_rodrigues.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Simone Carneiro",
+      "formation":[
+        "Graduada em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Ferramenta Spider-Mplan para processo de Medição"
+      ],
+      "lattes":"http://lattes.cnpq.br/2331284241253031",
+      "contact":"simone.nara@gmail.com",
+      "photo": "/images/photos/simone_carneiro.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Sivaldinho Oliveira",
+      "formation":[
+        "Graduado em Bacharelado em Sistemas de Informação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Ferramentas GPL para Apoio à Estimativas de Projetos (APF e UCP)"
+      ],
+      "lattes":"http://lattes.cnpq.br/0848432831039584",
+      "contact": "sivaldo.oliveira@yahoo.com.br",
+      "photo": "/images/photos/sivaldinho_oliveira.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Thiago Sylas",
+      "formation":[
+        "Mestre em Ciência da Computação (UFPA/2016)",
+        "Graduação em Bacharelado em Ciência da Computação (UFPA/2014)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Uma Análise De Implementação do Risagi no Contexto do MR-MPS-SW",
+        "Uma Abordagem Metodológica para a Implementação do Processo de Medição a partir de uma Ferramenta de Software e um Catálogo de Medidas."
+      ],
+      "lattes":"http://lattes.cnpq.br/6848167829021983",
+      "contact":"tsylasac@gmail.com",
+      "photo": "/images/photos/thiago_sylas.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Vitor Castro",
+      "formation":[
+        "Mestre em Ciências da Computação (UFPA/2015)",
+        "Especialista em Java Corporativo (CESUPA/2012)",
+        "Graduado em Bacharelado em Sistemas de Informação (UFPA/2011)"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Um Framework de Práticas Ágeis para Apoiar a Implementação dos Processos de Construção da Solução constantes em Modelos de Qualidade de Software"
+      ],
+      "lattes":"http://lattes.cnpq.br/0068498974486038",
+      "contact":"castro.vitor006@gmail.com",
+      "photo": "/images/photos/vitor_castro.jpg",
+      "role":"activities"
+    },
+    {
+      "name":"Vitor Feitosa",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Pesquisador de Práticas Ágeis para Teste de Software para Atendimento ao MPS.BR",
+        "Ferramentas GPL para Gerência de Projetos"
+      ],
+      "lattes":"http://lattes.cnpq.br/1079678047422399",
+      "contact":"vfeitosa86@gmail.com",
+      "photo": "/images/photos/vitor_feitosa.jpg",
+      "role":"formerResearcher"
+    },
+    {
+      "name":"Wallace Lira",
+      "formation":[
+        "Graduado em Bacharelado em Ciência da Computação"
+      ],
+      "homepage": false,
+      "research":[],
+      "activities":[
+        "Integração de Ferramentas GPL de Gerência de Projetos e Gerência de Requisitos",
+        "Pesquisador de Ferramentas GPL para Gerência de Recursos Humanos"
+      ],
+      "lattes":"http://lattes.cnpq.br/1214849038970743",
+      "contact":"wallace.lira@gmail.com",
+      "photo": "/images/photos/wallace_lira.jpg",
+      "role":"formerResearcher"
+    }
+  ]
+}
